@@ -1,0 +1,19 @@
+[
+    {
+        "name": "Sandisk ultra 128 GB SDXC UHS-I",
+        "price": "45.34",
+        "description": "untra fast cards",
+        "ratings": 4.5,
+        "images":[
+            {
+                "public_id": "products/dsfsagsagsdfs",
+                "url": "htps:///ksfsfsdlfs"
+            }
+        ],
+        "category": "Electronics",
+        "seller": "Ebay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": []
+    }
+]
